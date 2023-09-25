@@ -16,7 +16,7 @@ You can see a live demo of the template at https://moelsherbiny.github.io/Animat
 
 ## Getting Started
 
-To use the template, simply download the code from [GitHub](https://github.com/MoElsherbiny/Animated-portfolio-.git) or clone the repository:
+To use the template, simply download the code from https://frabjous-profiterole-aaf8e8.netlify.app/ or clone the repository:
 
 ```
 git clone https://github.com/MoElsherbiny/Animated-portfolio-.git
